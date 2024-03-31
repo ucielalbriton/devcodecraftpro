@@ -1,0 +1,33 @@
+{
+  "name": "devcodecraftpro",
+  "version": "1.0.2",
+  "description": "devcodecraftpro",
+  "type": "module",
+  "main": "devcodecraftpro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ucielalbriton/devcodecraftpro"
+  },
+  "website": "https://github.com/ucielalbriton/devcodecraftpro.git",
+  "keywords": [
+    "devcodecraftpro"
+  ],
+  "author": "ucielalbriton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ucielalbriton/devcodecraftpro/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/ucielalbriton/devcodecraftpro#readme",
+  "dependencies": {
+    "devcodecraftmaster": "1.0.2",
+    "programcraftgenius": "1.0.2",
+    "codescriptcraftsage": "1.0.2"
+  }
+}
